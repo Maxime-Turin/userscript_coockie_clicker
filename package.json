@@ -1,0 +1,24 @@
+{
+  "name": "userscript_coockie_clicker",
+  "version": "1.0.0",
+  "description": "Userscript to automate actions on the famous idle game Coockie Clicker.",
+  "main": "userScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxime-Turin/userscript_coockie_clicker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxime-Turin/userscript_coockie_clicker/issues"
+  },
+  "homepage": "https://github.com/Maxime-Turin/userscript_coockie_clicker#readme",
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
